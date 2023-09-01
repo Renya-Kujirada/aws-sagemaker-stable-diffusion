@@ -1,5 +1,6 @@
 # sagemaker-stable-diffusion
 
+本リポジトリでは，SageMaker Junpstartが提供するstable-diffusion-modelをtransform jobやtraining jobで実行可能かどうかを検証している．
 
 ## link
 - [original notebook](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/llm-workshop/lab2-stable-diffusion/option1-jumpstart/BONUS_Amazon_JumpStart_Upscaling.ipynb)
